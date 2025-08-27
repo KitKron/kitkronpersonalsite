@@ -1,0 +1,11 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Kit Kron'
+theme = 'introduction'
+
+[params]
+    themeStyle = "light"
+    customCSS = ["test.css"]
+
+[markup.goldmark.renderer]
+    unsafe= true

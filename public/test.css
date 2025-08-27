@@ -1,0 +1,120 @@
+.modal-card-body {
+    font-size: 1.3rem;
+    font-family: 'Times New Roman';
+}
+
+.modal-card-title {
+    font-family: 'Prestige 12 Pitch';
+    font-size: 1.5rem;
+    text-decoration: underline;
+    color: #2F3645;
+}
+
+.modal-content,
+.modal-card {
+    width: 100%;
+    text-indent: 5%;
+    box-shadow: 0rem -0.1rem 1rem #EEEDEB;
+}
+    @media screen and (min-width: 769px), print {
+        .modal-content,
+        .modal-card {
+            width: 55%;
+        }
+    }
+
+@font-face {
+    font-family: 'Prestige 12 Pitch';
+    src: 'assets\fonts\PrestigeReg.woff';
+}
+    
+
+@font-face {
+    font-family: 'Astonia';
+    src: 'assets\fonts\Astonia.ttf';
+}
+
+.bold-title {
+    font-family: 'Astonia';
+    letter-spacing: 0.2rem;
+    color: #EEEDEB;
+    margin-bottom: 1em;
+}
+
+body {
+    background-color: #EEEDEB !important;
+}
+
+hr {
+    background-color: #939185;
+    height: 1px;
+}
+
+.section .container {
+    max-width: 1000px;
+}
+
+.navbar-item {
+    color: #939185;
+    font-family: 'Prestige 12 Pitch';
+}
+
+a.navbar-item:hover {
+    color: #cb7350;
+    background-color: #2F3645 !important;
+}
+
+.title {
+    font-family: 'Astonia';
+    letter-spacing: 0.1rem;
+    color: #2F3645;
+}
+
+.card-content a {
+    font-family: 'Prestige 12 Pitch';
+}
+
+.card-thumbnail {
+    box-shadow: 0px 2px 3px #2f3645aa;
+}
+
+a {
+    color: #cb7350;
+}
+
+a:hover {
+    color: #939185;
+}
+
+.card-content.test {
+    background-color: black;
+    border: 1px solid black;
+    box-shadow: 0px 4px 8px black;
+}
+
+.hero.is-fullheight {
+    min-height: 140vh;
+    background-image: linear-gradient(#2F3645,#2F3645,#2F3645,#EEEDEB);
+}
+
+.hero-foot {
+    margin-bottom: 25em;
+}
+
+.section {
+    background-color: #EEEDEB;
+}
+
+#bio p {
+    font-family: 'Prestige 12 Pitch';
+    color: #2F3645;
+    font-size: 1.45rem;
+}
+
+.avatar {
+    margin-top: 2rem;
+}
+
+#contact h2 {
+    font-size: 3rem;
+}
