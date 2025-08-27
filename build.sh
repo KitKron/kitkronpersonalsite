@@ -61,7 +61,7 @@ main() {
 
   # Build the site
   echo "Building the site..."
-  hugo --gc --minify --buildDrafts
+  hugo --gc --minify --buildDrafts -b $CF_PAGES_URL
 
 }
 
