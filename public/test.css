@@ -87,8 +87,8 @@ a:hover {
 }
 
 .card-content.test {
-    max-height: 1046px;
-    max-width: 913px;
+    max-width: min-content;
+    max-height: min-content;
     background-color: black;
     border: 1px solid black;
     box-shadow: 0px 4px 8px black;
