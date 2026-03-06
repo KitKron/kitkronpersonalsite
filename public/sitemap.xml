@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/projects/i5/</loc>
-    <lastmod>2025-08-26T10:20:54-07:00</lastmod>
+    <loc>http://localhost:1313/projects/backwood/</loc>
+    <lastmod>2026-03-05T18:04:01-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/soul/</loc>
+    <lastmod>2026-03-05T18:04:01-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/promise/</loc>
+    <lastmod>2026-03-05T18:04:01-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2025-08-25T17:49:08-07:00</lastmod>
@@ -19,15 +25,6 @@
   </url><url>
     <loc>http://localhost:1313/projects/iamahouse/</loc>
     <lastmod>2025-08-25T18:04:01-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/promise/</loc>
-    <lastmod>2026-03-05T18:04:01-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/soul/</loc>
-    <lastmod>2026-03-05T18:04:01-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/backwood/</loc>
-    <lastmod>2026-03-05T18:04:01-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2026-03-05T18:04:01-07:00</lastmod>

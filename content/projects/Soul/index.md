@@ -1,7 +1,7 @@
 ---
 title: "A History of the Soul and its Impact on Brazil-United States Relations" # Title of your project
 date: 2026-03-05T18:04:01-07:00
-weight: 7 # Order in which to show this project on the home page
+weight: -3 # Order in which to show this project on the home page
 external_link: "" # Optional external link instead of modal
 resources:
     - src: BuildingImage.png
