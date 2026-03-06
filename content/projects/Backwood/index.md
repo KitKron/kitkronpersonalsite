@@ -1,7 +1,7 @@
 ---
 title: "Backwood Despondence" # Title of your project
 date: 2026-03-05T18:04:01-07:00
-weight: -2 # Order in which to show this project on the home page
+weight: -4 # Order in which to show this project on the home page
 external_link: "" # Optional external link instead of modal
 resources:
     - src: TheaterImage.png
